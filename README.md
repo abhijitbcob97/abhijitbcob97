@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhijit
+- 👋 Hi, I’m Abhijit Barman
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React
